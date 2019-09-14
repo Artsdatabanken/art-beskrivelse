@@ -195,12 +195,6 @@
     },
     {
       "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-112535"
-    },
-    {
-      "ingress": {
         "nb": "Det er to norske arter i underslekta, og trolig bare en eller to arter til som er kjent fra den sørlige halvkule."
       },
       "kode": "AR-112543"
@@ -1192,240 +1186,6 @@
       "kode": "AR-1274"
     },
     {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-130008"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-130316"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-130402"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-130638"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-130782"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-130790"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-131846"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-131944"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-132179"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-132185"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-132430"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133402"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133410"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133430"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133432"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133496"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133538"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133813"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-133944"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134062"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134124"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134189"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134309"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134764"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134784"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134884"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-134985"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-135181"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-135815"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-135907"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-135916"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-136103"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-136148"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-136566"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-136786"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-136814"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-137394"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-137578"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-137661"
-    },
-    {
       "brødtekst": {
         "nb": "Slekten Heterocope, som består av tre arter i Norge, kranshops H. appendiculata, finnmarkshops H. borealis og spasmehops H. saliens, er rovformer, mens de øvrige calanoide hoppekrepsene er filtrerere eller gripere. De har kjønnet formering. Mens Heterocope-artene slipper ut ett og ett egg, bærer de andre calanoidene eggene i en eggsekk på bakkroppen. Calanoidene kan overleve ugunstige perioder (vinter, tørke) som hvileegg."
       },
@@ -1433,30 +1193,6 @@
         "nb": "Det er konstatert 14 calanoide arter hoppekreps i Norge. Selv om de fleste artene er pelagiske kan de opptre i høye tettheter i litoralsonen."
       },
       "kode": "AR-138"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-138139"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-138577"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-138902"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-139587"
     },
     {
       "ingress": {
@@ -1833,72 +1569,6 @@
     },
     {
       "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-143826"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-144241"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-144385"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-144468"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-144590"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-145289"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-145295"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-145324"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-145444"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-145524"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-145636"
-    },
-    {
-      "ingress": {
         "nb": "Isocolus jaceae legger egg i blomsterknoppen på ulike arter av knoppurt. Gallene blir harde når planten visner, og kan kjennes når man klemmer på blomstene. I Norge er arten kun kjent fra Vestfold."
       },
       "kode": "AR-145771"
@@ -1912,18 +1582,6 @@
         "nb": "Familien Apataniidae omfatter i Norge slekten Apatania med syv arter. Artene er små til middels store med smale framvinger i duse, gråbrune farger. Flere av artene er partenogenetiske. Larvene lever på stein- og grusbunn i sig, bekker og elver, samt i innsjøer uten vegetasjon. De bygger svakt buete, portable hus av småstein."
       },
       "kode": "AR-145803"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-146105"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-146116"
     },
     {
       "ingress": {
@@ -1954,12 +1612,6 @@
         "nb": "Gul slimvokssopp Hygrocybe vitellina er en liten, gul, slimet vokssopp med slimet skiveegg. Den vokser i magre kulturmarksenger (naturbeitemarker, slåttemarker) langs Vestlandskysten."
       },
       "kode": "AR-160504"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-160600"
     },
     {
       "ingress": {
@@ -4301,18 +3953,6 @@
         "en": "Hoplonemerteans often have cephalic furrows on the head. The proboscis is armed with one or several stylets. The mouth and the proboscis pore are connected into one opening located in the anterior tip of the head."
       },
       "kode": "AR-547"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-62051"
-    },
-    {
-      "ingress": {
-        "nb": "Informasjon hentet fra Bondens kulturmarksflora for Midt-Norge."
-      },
-      "kode": "AR-62233"
     },
     {
       "ingress": {
@@ -7715,12 +7355,12 @@
   ],
   "meta": {
     "tittel": "Ingress",
-    "produsertUtc": "2019-09-14T14:45:07.727Z",
+    "produsertUtc": "2019-09-14T15:11:36.342Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/ingress.json",
     "tool": {
       "name": "art-ingress-lastejobb"
     },
-    "elementer": 1157
+    "elementer": 1097
   }
 }
