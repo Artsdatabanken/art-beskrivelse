@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "beskrivelse": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "nb": {
+                "type": "string"
+              },
+              "nn": {
+                "type": "string"
+              }
+            }
+          },
+          "brødtekst": {
+            "type": "object",
+            "properties": {
+              "en": {
+                "type": "string"
+              },
+              "nb": {
+                "type": "string"
+              },
+              "nn": {
+                "type": "string"
+              }
+            }
+          },
+          "kode": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "beskrivelse",
+          "brødtekst",
+          "kode"
+        ]
+      }
+    },
+    "meta": {
+      "type": "object",
+      "properties": {
+        "tittel": {
+          "type": "string"
+        },
+        "produsertUtc": {
+          "type": "string"
+        },
+        "utgiver": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        },
+        "tool": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "url": {
+              "type": "null"
+            }
+          }
+        },
+        "elementer": {
+          "type": "number"
+        }
+      }
+    },
+    "$schema": {
+      "type": "string"
+    }
+  },
+  "meta": {
+    "tittel": "Beskrivelse.schema",
+    "produsertUtc": "2019-10-09T09:55:06.974Z",
+    "utgiver": "Artsdatabanken",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/beskrivelse.schema.json",
+    "tool": {
+      "name": "art-beskrivelse-lastejobb"
+    },
+    "elementer": 3
+  }
+}
