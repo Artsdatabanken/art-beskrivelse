@@ -7474,14 +7474,13 @@
     }
   ],
   "meta": {
-    "tittel": "Beskrivelse",
-    "produsertUtc": "2019-10-09T09:55:06.953Z",
+    "tittel": "Type",
+    "produsertUtc": "2019-10-09T09:57:35.380Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/beskrivelse.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/type.json",
     "tool": {
       "name": "art-beskrivelse-lastejobb"
     },
     "elementer": 1115
-  },
-  "$schema": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/beskrivelse.schema.json#"
+  }
 }
