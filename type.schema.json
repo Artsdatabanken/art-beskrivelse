@@ -76,11 +76,14 @@
           "type": "number"
         }
       }
+    },
+    "$schema": {
+      "type": "string"
     }
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-09T09:57:35.399Z",
+    "produsertUtc": "2019-10-09T10:30:13.596Z",
     "utgiver": "Artsdatabanken",
     "url": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/type.schema.json",
     "tool": {
