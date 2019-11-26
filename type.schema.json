@@ -10,10 +10,10 @@
           "beskrivelse": {
             "type": "object",
             "properties": {
-              "en": {
+              "eng": {
                 "type": "string"
               },
-              "nb": {
+              "nob": {
                 "type": "string"
               },
               "nn": {
@@ -24,10 +24,10 @@
           "brødtekst": {
             "type": "object",
             "properties": {
-              "en": {
+              "eng": {
                 "type": "string"
               },
-              "nb": {
+              "nob": {
                 "type": "string"
               },
               "nn": {
@@ -83,9 +83,9 @@
   },
   "meta": {
     "tittel": "Type.schema",
-    "produsertUtc": "2019-10-09T10:30:13.596Z",
+    "produsertUtc": "2019-11-26T09:43:11.401Z",
     "utgiver": "Artsdatabanken",
-    "url": "https://raw.githubusercontent.com/Artsdatabanken/art-ingress/master/type.schema.json",
+    "url": "https://raw.githubusercontent.com/Artsdatabanken/art-beskrivelse/master/type.schema.json",
     "tool": {
       "name": "art-beskrivelse-lastejobb"
     },
